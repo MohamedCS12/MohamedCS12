@@ -2,8 +2,9 @@
 <h3 align="center">💻 Software Engineer | 🎓 Monash University Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+building+tech+that+matters;Always+learning+new+things;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Android+Development+(Java);Docker+Deployment;Fine-Tuning+LLMs+for+Chatbots;Cloud+Hosting+on+Google+Cloud+and+AWS" alt="Typing SVG" />
 </p>
+
 
 ---
 
