@@ -9,7 +9,7 @@
 ---
 
 - 📧 Reach me at: **mohamed.helal.02468@gmail.com**
-- 🌍 Based in: **Malaysia 🇲🇾 | Originally from Egypt 🇪🇬**
+- 🌍 Based in: **Egypt 🇪🇬**
 - 🎯 Interests: Android Development, Backend Systems, DevOps, AI Integration
 
 ---
